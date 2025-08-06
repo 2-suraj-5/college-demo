@@ -1,3 +1,4 @@
 # college-demo
 This is my first Git Repository.
-Author-Suraj Singh
+<br>
+Author-Suraj Singh.
